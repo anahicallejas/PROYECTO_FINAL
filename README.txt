@@ -1,4 +1,4 @@
-# OPTIMIZACIÓN Y PREDICCIÓN DEL RENDIMIENTO EN LA GESTIÓN DE TAREAS EN UN PROYECTO DE DESARROLLO ÁGIL
+# PREDICCIÓN DEL TIEMPO DE RESOLUCIÓN DE INCIDENCIAS EN UN PROYECTO DE DESARROLLO DE SOFTWARE ÁGIL USANDO APRENDIZAJE AUTOMÁTICO 
 
 Este proyecto utiliza modelos de aprendizaje automático como Gradient Boosting, Random Forest y XGBoost para predecir los tiempos de resolución de tickets en JIRA. A continuación se detalla la estructura de archivos, las dependencias y las instrucciones para ejecutar los notebooks.
 
