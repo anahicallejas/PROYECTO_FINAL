@@ -36,5 +36,5 @@ Puede descargarlo en su entorno drive, modificar las rutas de los archivos DATA 
 
 ### Contacto
 Si tienes alguna pregunta o necesitas asistencia, no dudes en contactar a:
-*Nombre del autor*: Anahi Callejas
-*Correo electrónico*: anahicosi@gmail.com
+- *Nombre del autor*: Anahi Callejas
+- *Correo electrónico*: anahicosi@gmail.com
